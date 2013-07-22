@@ -366,10 +366,10 @@ Log.v("SDL", "trace-0: Set Path()");
                 
                 
 		        int contextAttrs[] = new int[] { 
-		        									EGL_CONTEXT_CLIENT_VERSION, 
-			        				        		 2, 
-			        								 EGL10.EGL_NONE 
-		        								 };
+		        			EGL_CONTEXT_CLIENT_VERSION, 
+			        		 2, 
+			        		EGL10.EGL_NONE 
+		        			};
         
         
 		        MoaiActivity.mEGLContext = egl.eglCreateContext(	
