@@ -1,5 +1,8 @@
-// Copyright (c) 2010-2011 Zipline Games, Inc. All Rights Reserved.
-// http://getmoai.com
+
+THIS ONE IS BROKEN PLEASE VIEW MOAISIM_2.cpp
+
+
+
 
 #include <android/log.h>
 #define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG , "SDL", __VA_ARGS__)
